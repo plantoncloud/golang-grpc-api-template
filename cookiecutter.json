@@ -1,4 +1,4 @@
 {
-  "project_slug": "go-rest-api",
-  "go_module_name": "github.com/plantoncloud/template-go-rest-api"
+  "project_slug": "go-grpc-api",
+  "go_module_name": "github.com/plantoncloud/template-go-grpc-api"
 }
